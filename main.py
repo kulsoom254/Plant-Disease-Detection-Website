@@ -5,7 +5,7 @@ from langchain.prompts import PromptTemplate
 from datetime import datetime
 from PIL import Image
 
-genai.configure(api_key="AIzaSyB6p0bLwFyqiRQKNyWCKwCPLT3col91qlk")
+genai.configure(api_key="insert key")
 
 
 
